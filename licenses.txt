@@ -1,0 +1,13 @@
+Slick Slider
+Copyright (c) 2017 Ken Wheeler
+Licensed under the MIT license.
+https://github.com/kenwheeler/slick
+---
+Google Fonts
+These fonts are licensed under the Open Font License.
+https://fonts.google.com/
+---
+Google Icons
+These icons are licensed under the Apache License Version 2.0.
+https://fonts.google.com/icons
+---
