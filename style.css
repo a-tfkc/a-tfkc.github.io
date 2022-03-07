@@ -6,9 +6,10 @@ html, body {
     box-sizing: border-box;
 }
 
-/* TODO: adjust breakpoints */
+/* TODO: adjust breakpoints
 @media screen and (max-width: 768px) {
     html, body {
         overflow-x: hidden;
     }
 }
+*/
